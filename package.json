@@ -1,0 +1,31 @@
+{
+  "name": "sample1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/gulp/bin/gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-es2017": "^7.0.0-beta.53",
+    "@babel/register": "^7.5.5",
+    "babel-preset-latest": "^6.24.1"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "browser-sync": "^2.26.7",
+    "connect-ssi": "^1.1.1",
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "serve-static": "^1.14.1"
+  }
+}
