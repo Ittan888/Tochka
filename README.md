@@ -1,4 +1,4 @@
-# Tochka
+# Tochka < トーチカ >
 
 nuxt.jsなどのWAFが存在している時代  
 未だにhtmlを量産しなければならないような  
